@@ -1,2 +1,21 @@
-# jarvis-ai-voice-assistant
-A Python-based AI voice assistant currently under development using Speech Recognition and pyttsx3 for voice interaction and automation.
+# Jarvis AI Voice Assistant
+
+## Status
+🚧 In Progress
+
+## Technologies
+- Python
+- SpeechRecognition
+- pyttsx3
+- PyAudio
+
+## Current Features
+- Text-to-Speech
+- Speech Recognition integration
+- Voice command framework
+
+## Planned Features
+- Open applications
+- Web search
+- AI integration
+- Task automation
